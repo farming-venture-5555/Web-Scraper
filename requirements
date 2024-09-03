@@ -1,0 +1,6 @@
+playwright==1.30.0  # Specify the version you're using, or leave it open-ended
+google-auth==2.22.0
+google-auth-oauthlib==1.0.0
+google-auth-httplib2==0.1.0
+google-api-python-client==2.93.0
+httplib2==0.21.0
